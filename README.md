@@ -28,5 +28,5 @@
 #
 
 <div> 
-  <img align="left" alt="Yuri-Cogu" top="100px" height="200" src="https://miro.medium.com/max/2400/1*9S3JhMtLGiacpNpziWGN1A.gif">
+  <img align="center" alt="Yuri-Cogu" top="100px" height="300" src="https://miro.medium.com/max/2400/1*9S3JhMtLGiacpNpziWGN1A.gif">
 </div>
