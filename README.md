@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on R and C++
 - 🌱 I’m currently learning Java script and PHP
 - 📫 contact: yurimaluf@gmail.com 
+<html>
 
 <div>
   <a href="https://github.com/yurimaluf">
@@ -27,6 +28,6 @@
 
 #
 
-<div> 
-  <img align="center" alt="Yuri-Cogu" top="100px" height="300" src="https://miro.medium.com/max/2400/1*9S3JhMtLGiacpNpziWGN1A.gif">
+<div style="background-color: black" > 
+  <img align="middle" alt="Yuri-Cogu" height="250" src="https://miro.medium.com/max/2400/1*9S3JhMtLGiacpNpziWGN1A.gif">
 </div>
