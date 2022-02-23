@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on R and C++
-- 🌱 I’m currently learning Java script and PHP
+- 🌱 I’m currently learning Java Script and PHP
 - 📫 contact: yurimaluf@gmail.com 
 <html>
 
